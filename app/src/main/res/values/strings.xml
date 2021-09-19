@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Proverbs</string>
+    <string name="proverb1">"Horns do not grow before the head"</string>
+    <string name="proverb2">"If a giver is not careful, a beggar will build a house before him"</string>
+    <string name="proverb3">"Endless war shames even a hero"</string>
+    <string name="proverb4">"I pointed to you the stars and all you saw was the tip of my finger"</string>
+    <string name="proverb5">"The body becomes what the food is, the spirit becomes what the thought is"</string>
+    <string name="proverb6">"I am not dead says father; but keeps planting bark-cloth trees"</string>
+    <string name="proverb7">"The desire to cheat and the refusal to be cheated are the cause of noise in the market"</string>
+    <string name="proverb8">"If you know the beginning well, the ending will not trouble you"</string>
+    <string name="proverb9">"If you go through the high grass that the elephant has already gone through, you will not get soaked with dew"</string>
+    <string name="proverb10">"It is not changing into a lion that is hard, it is getting the tail of the lion that is"</string>
+    <string name="proverb11">"He who learns teaches"</string>
+    <string name="proverb12">"If everyone helps to hold up the sky, then one person does not become tired"</string>
+    <string name="proverb13">"To get lost is to learn the way"</string>
+    <string name="proverb14">"Do not threaten to push the swimmer into the river"</string>
+    <string name="proverb15">"He who admits his fault will not be kept kneeling for long"</string>
+    <string name="proverb16">"No matter how fortunate a man is, he cannot bear a son before his father"</string>
+    <string name="proverb17">"If you pray for the rain, be ready for the mud too"</string>
+    <string name="proverb18">"Facts do not cease to exist just because they are ignored</string>
+    <string name="proverb19">"He who is truly free is not haunted by himself"</string>
+</resources>
