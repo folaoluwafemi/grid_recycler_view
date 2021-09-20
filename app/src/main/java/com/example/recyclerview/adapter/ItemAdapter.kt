@@ -14,6 +14,7 @@ class ItemAdapter(private val context: Context, private val dataSet: List<Prover
 
     class ItemViewHolder(private val view: View) : RecyclerView.ViewHolder(view){
         val proverbText: TextView = view.findViewById(R.id.list_view)
+        val proverbImage: ImageView = view.findViewById(R.id.list_image)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
@@ -23,6 +24,7 @@ class ItemAdapter(private val context: Context, private val dataSet: List<Prover
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         holder.proverbText.text = context.resources.getString(dataSet[position].StringResourceId)
+        holder.proverbImage.setImageResource(dataSet[position].ImageResourceId)
     }
 
     override fun getItemCount(): Int = dataSet.size

@@ -1,3 +1,5 @@
 package com.example.recyclerview.model
 
-data class Proverb(val StringResourceId: Int)
+import com.example.recyclerview.R
+
+data class Proverb(val StringResourceId: Int, val ImageResourceId: Int = R.drawable.og_proverb_cropped)
